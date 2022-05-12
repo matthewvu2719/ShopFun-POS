@@ -153,7 +153,6 @@ function Items() {
                 <Select.Option value='fruits'>Fruits</Select.Option>
                 <Select.Option value='vegetables'>Vegetables</Select.Option>
                 <Select.Option value='meat'>Meat</Select.Option>
-                <Select.Option value='fun'>Fun</Select.Option>
               </Select>
             </Form.Item>
             <div className='d-flex justify-content-end'>

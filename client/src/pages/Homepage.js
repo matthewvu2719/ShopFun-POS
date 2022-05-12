@@ -25,11 +25,7 @@ function Homepage() {
       imageURL:
         'https://images.ctfassets.net/3s5io6mnxfqz/5GlOYuzg0nApcehTPlbJMy/140abddf0f3f93fa16568f4d035cd5e6/AdobeStock_175165460.jpeg?fm=jpg&w=900&fl=progressive',
     },
-    {
-      name: 'fun',
-      imageURL:
-        'https://www.ardurecoverycenter.com/wp-content/uploads/2020/09/Drugs_-Types-of-Illegal-Drugs-1.png',
-    },
+
   ];
   const dispatch = useDispatch();
   const getAllItems = () => {
